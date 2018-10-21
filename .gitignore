@@ -1,0 +1,14 @@
+**/hw_handoff
+**/ip
+**/ipshared
+**/sim
+**/synth
+**/ui
+**/*.sim
+**/*.sdk
+**/*.runs
+**/*.ip_user_files
+**/*.hw
+**/*.cache
+*.zip
+
